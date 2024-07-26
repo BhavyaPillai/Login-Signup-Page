@@ -11,7 +11,7 @@ This repository contains the source code for a simple login and signup page. The
 
 ## Demo
 
-Check out the live demo [here](https://yourwebsite.com).
+Check out the live demo [here](https://bhavyapillai.github.io/Login-Signup-Page/).
 
 ## Installation
 
@@ -36,5 +36,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For more information, visit [this website](https://yourwebsite.com) or contact me at [bhavyapillai2403@gmail.com](mailto:bhavyapillai2403@gmail.com).
+For more information, visit [this website](https://bhavyapillai.github.io/Login-Signup-Page/) or contact me at [bhavyapillai2403@gmail.com](mailto:bhavyapillai2403@gmail.com).
 
